@@ -2,7 +2,7 @@
 <settings>
     <category label="32006">
         <setting id="windowsExecutable" label="32007" type="executable" default="C:\Program Files\Mozilla FireFox/FireFox.exe" />
-        <setting id="linuxExecutable" label="32008" type="executable" default="/usr/bin/firefox" />
+        <setting id="linuxExecutable" label="32008" type="executable" default="/usr/bin/google-chrome" />
     </category>
     <category label="32009">
         <setting id="xtermExecutable" label="32012" type="executable" default="/usr/bin/xterm" />
